@@ -99,11 +99,11 @@ public class Developer {
 
 <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
 
 </div>
@@ -137,18 +137,18 @@ public class Developer {
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/> -->
 
 <h4>🗄️ Database</h4>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
+<!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> -->
+<!-- 
 <h4>🛠️ DevOps &amp; Infrastructure</h4>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -162,7 +162,7 @@ public class Developer {
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
+ -->
 <h4>🧰 IDE &amp; Tools</h4>
 
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
@@ -172,7 +172,7 @@ public class Developer {
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> -->
 
 </div>
 
@@ -214,7 +214,7 @@ public class Developer {
 
 <!-- ============================== CONTRIBUTION SNAKE ============================== -->
 
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>
   Contribution Snake
 </h2>
@@ -226,9 +226,9 @@ public class Developer {
   Workflow generates snake.svg on a schedule and commits it to the
   `output` branch. Replace the URL below accordingly.
 -->
-<img src="https://raw.githubusercontent.com/syedmuhammadsarfaraaz/syedmuhammadsarfaraaz/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
+<!-- <img src="https://raw.githubusercontent.com/syedmuhammadsarfaraaz/syedmuhammadsarfaraaz/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/> -->
 
-</div>
+</div> -->
 
 <br/>
 
@@ -317,59 +317,35 @@ boards, and JWT-secured REST APIs.
 <br/>
 
 <!-- ============================== EXPERIENCE TIMELINE ============================== -->
-
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>
-  Experience Timeline
+  Experience
 </h2>
 
 <table align="center" width="90%">
 <tr>
-<td width="10%" align="center">🚀</td>
+<td width="10%" align="center">💼</td>
 <td>
 
-**Senior Software Developer** — `[Company Name]`
-<br/><sub>[Month Year] – Present</sub>
-<br/>Leading backend architecture using Java &amp; Spring Boot, mentoring junior developers, and driving microservices migration for enterprise applications.
+### **Systems Engineer Intern** — **Infosys Limited**
+📍 Chennai Development Center (DC)
 
-</td>
-</tr>
-<tr>
-<td width="10%" align="center">💻</td>
-<td>
+<sub>1 Year Internship</sub>
 
-**Full Stack Developer** — `[Company Name]`
-<br/><sub>[Month Year] – [Month Year]</sub>
-<br/>Built and maintained full stack applications using Angular and Spring Boot, integrating REST APIs and optimizing application performance.
-
-</td>
-</tr>
-<tr>
-<td width="10%" align="center">⚙️</td>
-<td>
-
-**Backend Engineer** — `[Company Name]`
-<br/><sub>[Month Year] – [Month Year]</sub>
-<br/>Designed and implemented scalable REST APIs, optimized database queries, and improved system reliability across distributed services.
-
-</td>
-</tr>
-<tr>
-<td width="10%" align="center">🌐</td>
-<td>
-
-**Open Source Contributor** — `[Project / Organization]`
-<br/><sub>[Month Year] – Present</sub>
-<br/>Contributing to open-source Java and Angular projects, fixing issues, reviewing pull requests, and improving documentation.
+- Developed and maintained enterprise web applications using **Java**, **Spring Boot**, and **Angular**.
+- Designed and implemented RESTful APIs for backend services.
+- Collaborated with cross-functional Agile teams to deliver scalable software solutions.
+- Worked with **MySQL**, **Git**, **Maven**, and **Postman** during the development lifecycle.
+- Participated in debugging, code reviews, testing, and performance optimization.
+- Gained hands-on experience with enterprise software development practices and SDLC.
 
 </td>
 </tr>
 </table>
 
 <br/>
-
 <!-- ============================== ACHIEVEMENTS ============================== -->
-
+<!-- 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>
   Achievements
@@ -389,10 +365,10 @@ boards, and JWT-secured REST APIs.
 
 </div>
 
-<br/>
+<br/> -->
 
 <!-- ============================== CODING PROFILES ============================== -->
-
+<!-- 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>
   Coding Profiles
@@ -409,7 +385,7 @@ boards, and JWT-secured REST APIs.
 
 </div>
 
-<br/>
+<br/> -->
 
 <!-- ============================== CONNECT WITH ME ============================== -->
 
@@ -421,10 +397,10 @@ boards, and JWT-secured REST APIs.
 <div align="center">
 
 <a href="https://github.com/syedmuhammadsarfaraaz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://linkedin.com/in/syed-muhammad-sarfaraaz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:syedmuhammadsarfaraaz@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> -->
+<!-- <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/></a> -->
 
 </div>
 
