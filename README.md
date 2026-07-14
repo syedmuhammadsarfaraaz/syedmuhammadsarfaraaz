@@ -3,7 +3,7 @@
   GITHUB PROFILE README — SENIOR FULL STACK DEVELOPER (JAVA + ANGULAR)
   ==========================================================================
   HOW TO USE:
-  1. Replace "YOUR_USERNAME" everywhere with your actual GitHub username.
+  1. Replace "syedmuhammadsarfaraaz" everywhere with your actual GitHub username.
   2. Replace all bracketed placeholders like [Your Name], [your.email@...]
   3. Update badge links, project links, and social links.
   4. Get a Spotify/Coffee widget key if you want those live (optional).
@@ -19,7 +19,7 @@
 
 <!-- ANIMATED TYPING SVG -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Java+Backend+Developer+%E2%98%95;Angular+Frontend+Developer+%F0%9F%9A%80;Spring+Boot+Specialist+%F0%9F%8C%B1;Full+Stack+%7C+Cloud-Native+Engineer+%E2%98%81%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%92%99" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Java+Backend+Developer+%E2%98%95;Angular+Frontend+Developer+%F0%9F%9A%80;Spring+Boot+Specialist+%F0%9F%8C%B1;Full+Stack+%7C+Cloud-Native+Engineer+%E2%98%81%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%92%99" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,7 +30,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/📍_Location-Remote_%2F_Hybrid-0F2027?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/💼_Experience-5%2B_Years-2C5364?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/💼_Experience-1%2B_Years-2C5364?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/🎯_Focus-Java_%7C_Spring_%7C_Angular-00C9FF?style=for-the-badge&labelColor=000000"/>
 
 </div>
@@ -51,10 +51,10 @@
 ```java
 public class Developer {
 
-    private String name        = "[Your Name]";
-    private String role        = "Senior Software Developer";
-    private String experience  = "[X]+ Years";
-    private String location    = "[Your City, Country]";
+    private String name        = "Syed Muhammad Sarfaraaz";
+    private String role        = "Software Developer";
+    private String experience  = "1 Years";
+    private String location    = "Kadapa, India";
 
     private String[] expertise = {
         "Java Backend Development",
@@ -187,26 +187,26 @@ public class Developer {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=A855F7&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=syedmuhammadsarfaraaz&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=A855F7&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuhammadsarfaraaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=C9D1D9"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9FF&ring=A855F7&fire=00C9FF&currStreakLabel=00C9FF"/>
+<img src="https://streak-stats.demolab.com/?user=syedmuhammadsarfaraaz&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9FF&ring=A855F7&fire=00C9FF&currStreakLabel=00C9FF"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C9FF&line=A855F7&point=ffffff"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=syedmuhammadsarfaraaz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C9FF&line=A855F7&point=ffffff"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=syedmuhammadsarfaraaz&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
 
 <br/><br/>
 
 <!-- PROFILE SUMMARY CARDS -->
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark"/>
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedmuhammadsarfaraaz&theme=github_dark"/>
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedmuhammadsarfaraaz&theme=github_dark"/>
 
 </div>
 
@@ -226,7 +226,7 @@ public class Developer {
   Workflow generates snake.svg on a schedule and commits it to the
   `output` branch. Replace the URL below accordingly.
 -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/syedmuhammadsarfaraaz/syedmuhammadsarfaraaz/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
 
 </div>
 
@@ -377,7 +377,7 @@ boards, and JWT-secured REST APIs.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=syedmuhammadsarfaraaz&theme=nord&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
 
 <br/>
 
@@ -400,12 +400,12 @@ boards, and JWT-secured REST APIs.
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.hackerrank.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/YOUR_USERNAME"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/YOUR_USERNAME"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/YOUR_USERNAME"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://leetcode.com/syedmuhammadsarfaraaz"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/syedmuhammadsarfaraaz"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/syedmuhammadsarfaraaz"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/syedmuhammadsarfaraaz"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/user/syedmuhammadsarfaraaz"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/syedmuhammadsarfaraaz"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 
 </div>
 
@@ -420,7 +420,7 @@ boards, and JWT-secured REST APIs.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/syedmuhammadsarfaraaz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -462,7 +462,7 @@ boards, and JWT-secured REST APIs.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00C9FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=syedmuhammadsarfaraaz&label=Profile%20Views&color=00C9FF&style=for-the-badge"/>
 
 </div>
 
